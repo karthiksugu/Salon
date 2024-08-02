@@ -1,5 +1,5 @@
 
-package com.facebook.react;
+package com.facebook.reac t;
 
 import android.app.Application;
 import android.content.Context;
