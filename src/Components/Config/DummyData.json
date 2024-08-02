@@ -1,0 +1,44 @@
+{
+  "salons": [
+    {
+      "name": "Glamour Salon",
+      "photo": "https://uploads-ssl.webflow.com/61f6bdf6622ca14c87d8dac1/6464022cd9a97ebd3de17cf3_SalonMainImage.jpg",
+      "city": "Los Angeles",
+      "rating": 4.7,
+      "distance": "3 miles",
+      "number_of_employees": 12
+    },
+    {
+      "name": "Style Haven",
+      "photo": "https://padmaresortlegian.com/images/facilities/beauty-salon.jpg",
+      "city": "New York",
+      "rating": 4.5,
+      "distance": "5 miles",
+      "number_of_employees": 10
+    },
+    {
+      "name": "Chic Cuts",
+      "photo": "https://media.istockphoto.com/id/1271712634/photo/young-woman-looking-for-changes-trying-new-hairstyle-at-beauty-salon.jpg?s=612x612&w=0&k=20&c=Ylwrr2lDHn9F9y2lP5oFqc7CqzadLJAIcfWYx1l7Vjc=",
+      "city": "Chicago",
+      "rating": 4.6,
+      "distance": "7 miles",
+      "number_of_employees": 8
+    },
+    {
+      "name": "Elegance Spa",
+      "photo": "https://uploads-ssl.webflow.com/61f6bdf6622ca14c87d8dac1/6464022cd9a97ebd3de17cf3_SalonMainImage.jpg",
+      "city": "San Francisco",
+      "rating": 4.3,
+      "distance": "6 miles",
+      "number_of_employees": 15
+    },
+    {
+      "name": "Beauty Lounge",
+      "photo": "https://naomisheadmasters.com/wp-content/uploads/2022/10/GettyImages-947995974-3.jpg",
+      "city": "Miami",
+      "rating": 4.8,
+      "distance": "4 miles",
+      "number_of_employees": 9
+    }
+  ]
+}
